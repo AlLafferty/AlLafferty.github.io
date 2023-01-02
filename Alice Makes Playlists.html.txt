@@ -3,30 +3,32 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, inital-scale=1">
-    <title>Alice Makes Playlists</title>
+    <title>Breakers Make</title>
   </head>
   <body>
     <h1>
-      Alice Makes Playlists
+      Alice Lafferty
     </h1>
-    <h2>
-      Choose a genre:
-    </h2>
-    <a href="https://open.spotify.com/playlist/5caRCQG4gkZuYHcHZu1XG4?si=cGTGlV80RGK3oHkR6CjaMA" target="_blank">Alternative pop</a>
-    <a href="https://open.spotify.com/playlist/6XjtJeaQxE2EujrMUneXbf?si=euByoHsHSNO9FrxusXbC7w" target="_blank">Ambient</a>
-    <a href="https://open.spotify.com/playlist/3Iy0lgRpyehM7tP9inIF2N?si=doBDmjQkSt2wGs43LIW3cw" target="_blank">Americana</a>
-    <a href="https://open.spotify.com/playlist/2gZgshhkJeBpzzWVY2ez1K?si=Zqi7vDy5RquWBBROQGeIkg" target="_blank">Big Band & Swing</a>
-    <a href="https://open.spotify.com/playlist/4G97Uk9mRWjoUalrn8vY0u?si=iOi5due1T2e8lU9_G7LRKA" target="_blank">Britpop</a>
-    <a href="https://open.spotify.com/playlist/6w0fDWAkxhAAb8Jvx4YLGb?si=D9umNGIFTVK8qO9xlgpovw" target="_blank">Classic Rock</a>
-    <a href="https://open.spotify.com/playlist/58dLTXI3Ht4te9ScTFedTA?si=nuPsEVqLQbif2dAXPd9h-A" target="_blank">Classical</a>
-    <a href="https://open.spotify.com/playlist/5syDIwaBBM213GvLS19NWj?si=_hmYUGgETmSdWY0KVPAjlg" target="_blank">Electronic</a>
-    <a href="https://open.spotify.com/playlist/486VCsQd8FWPoMhD26aoW8?si=6ZatvIhVTkyuIorP9_luNA" target="_blank">Hauntology</a>
-    <a href="https://open.spotify.com/playlist/1YD0iXZh7RFNa3cMAJFDGW?si=5isypQziRz233m8o5XR7tQ" target="_blank">Hymns & Choral</a>
-    <a href="https://open.spotify.com/playlist/4qjgLRL7PDXFfS5XaekONG?si=CcETw2ygSnapfWoaLF9TYg" target="_blank">Jazz</a>
-    <a href="https://open.spotify.com/playlist/7qZK12mJ5Ua9CHSwl5Xv59?si=QaEsWDMDTy6zlXB7NrLEJQ" target="_blank">Post-punk</a>
-    <a href="https://open.spotify.com/playlist/5Wq9iX0XDv30hrwqzEQmLu?si=8dOYQ984TKmfuw7cYBHC1g" target="_blank">Progressive Rock</a>
-    <a href="https://open.spotify.com/playlist/6J5Y3V83Fa4ivB8QbUHGkk?si=7vy_dPykQ-SlTF0jOTRyuQ" target="_blank">Punk</a>
-    <a href="https://open.spotify.com/playlist/6E1Cjjgh1vJYAjtVkOOCp3?si=_9oGJ-d7S_SBRTnaEY_8Mg" target="_blank">Shoegaze</a>
-    <a href="https://youtube.com/playlist?list=PL2OGx9MDMt_vHqow1YCOJJX5KHCTb-h_W" target="_blank">Click if your name is Alex Regueiro</a>
+    <p>
+    <a href="https://open.spotify.com/playlist/5caRCQG4gkZuYHcHZu1XG4?si=cGTGlV80RGK3oHkR6CjaMA" target="_blank">Engineering Projects</a>
+    <p>
+  <p>
+    <a href="https://open.spotify.com/playlist/6XjtJeaQxE2EujrMUneXbf?si=euByoHsHSNO9FrxusXbC7w" target="_blank">Art</a>
+    </p>
+    <p>
+       <a href="https://open.spotify.com/playlist/3Iy0lgRpyehM7tP9inIF2N?si=doBDmjQkSt2wGs43LIW3cw" target="_blank">Music</a>
+    </p>
+    <p>
+      <a href="https://open.spotify.com/playlist/2gZgshhkJeBpzzWVY2ez1K?si=Zqi7vDy5RquWBBROQGeIkg" target="_blank">Philip Larkin</a>
+    </p>
+    <p>
+      <a href="https://open.spotify.com/playlist/4G97Uk9mRWjoUalrn8vY0u?si=iOi5due1T2e8lU9_G7LRKA" target="_blank">Personal</a>
+    </p>
+    <p>
+       <a href="https://open.spotify.com/playlist/6w0fDWAkxhAAb8Jvx4YLGb?si=D9umNGIFTVK8qO9xlgpovw" target="_blank">Gynopessimism</a>
+    </p>
+   <p>
+     <a href="https://open.spotify.com/playlist/58dLTXI3Ht4te9ScTFedTA?si=nuPsEVqLQbif2dAXPd9h-A" target="_blank">Philosophy & Theology</a>
+    </p>
   </body>
 </html>
